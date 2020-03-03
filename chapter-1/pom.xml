@@ -12,5 +12,14 @@
     <artifactId>chapter-1</artifactId>
     <description>架构师内功心法</description>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+        </dependency>
+    </dependencies>
 </project>
