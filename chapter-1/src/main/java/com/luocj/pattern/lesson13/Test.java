@@ -1,9 +1,6 @@
 package com.luocj.pattern.lesson13;
 
 import com.google.common.eventbus.EventBus;
-import com.luocj.pattern.lesson13.guava.Pojo;
-import com.luocj.pattern.lesson13.guava.PojoEvent;
-import com.luocj.pattern.lesson13.guava.VoEvent;
 
 /**
  * @author cj.luo
